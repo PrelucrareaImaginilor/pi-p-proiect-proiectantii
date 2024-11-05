@@ -1,0 +1,8 @@
+Componentele pentru schema:
+1.Camera laptopului captează imagini ale fetți la intervale scurte de timp. 
+2.Preprocesarea imaginii prelucrează imaginile primite de la camera prin detectarea feței și se ajustează imaginile pentru a ajuta proceselor următoare.
+3.Configurarea captării datelor se referă la verificarea distanței dintre utilizator și camera sau cât din fața acestuia e vizibilă. Dacă utilizatorul nu se află într-o poziție prielnică captării datelor necesare, va apărea un mesaj care să-l ghideze.
+4.Stocarea datelor initiale este necesara pentru a avea o stare inițială pentru comparația cu alte stări captate în timpul rulării programului.
+5.Monitorizarea factorilor fizici analizează anumiți indici care pot deduce gradul de atenție al utilizatorului.
+6.Calcularea scorului de concentrare se face cu ajutorul tuturor mecanismelor ce au analizat și prelucrat datele captate.
+7.Interfața cu utilizatorul afișează scorul de concentrare de tip procentaj la oprirea programului.
